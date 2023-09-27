@@ -2,6 +2,15 @@
 
 The Document Extraction and Excel Export Tool is a Python script designed to simplify the extraction and organization of structured data from multiple Microsoft Word documents (DOCX files) into an Excel spreadsheet. This tool is particularly useful for parsing and summarizing information from various documents, such as security reports or technical documentation, into a structured format for further analysis or reporting.
 
+## Table of Contents
+
+- [Features](#features)
+- [Use Cases](#use-cases)
+- [Requirements](#requirements)
+- [How to Use](#how-to-use)
+- [License](#license)
+- [Author](#author)
+
 ## Features
 
 - **Data Extraction**: Extract specific content located between user-defined start and end headers within DOCX files.
