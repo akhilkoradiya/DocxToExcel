@@ -26,6 +26,8 @@ The Document Extraction and Excel Export Tool is a Python script designed to sim
 
 Follow these steps to utilize the Document Extraction and Excel Export Tool:
 
+> **Cleanup (Important)**: It is essential to remove the sample Excel output file ("output.xlsx") from the main directory and DOCX files from the "Data" directory.
+
 1. **Prepare Your DOCX Files**: Ensure you have the DOCX files that you want to process. Make sure these files follow a consistent structure, including the presence of defined start and end headers if required for extraction.
 
 2. **Copy DOCX Files to the "Data" Directory**: Copy all the DOCX files into the "Data" directory, which should be located in the same directory as your Python script (`main.py`). This directory will serve as the source for document processing.
