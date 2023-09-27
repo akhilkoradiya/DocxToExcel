@@ -19,10 +19,8 @@ The Document Extraction and Excel Export Tool is a Python script designed to sim
 
 ## Requirements
 
-- **Python**: The tool is written in Python and requires a Python interpreter to run.
+- **Python**: The tool is written in Python3 and requires a Python3 interpreter to run.
 - **Required Python Libraries**: The tool uses libraries such as `docx` for working with DOCX files and `pandas` for data manipulation and Excel export. These libraries can be installed using `pip`.
-
-## How to Use
 
 ## How to Use
 
